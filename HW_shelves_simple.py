@@ -51,7 +51,7 @@ class Cabinet():
 
     def printSchema(self):
         rows = 0
-        size = 31
+        size = 32
         while rows <=6:
             rows += 1
             if rows == 2:
